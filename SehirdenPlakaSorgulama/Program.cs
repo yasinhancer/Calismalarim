@@ -21,7 +21,7 @@ namespace SehirdenPlakaSorgulama
             SehirPlaka.Add("balıkesir",10);
             SehirPlaka.Add("bilecik",11);
             SehirPlaka.Add("bingöl",12);
-            SehirPlaka.Add("bitlis",13);
+            SehirPlaka.Add("bitlis",13); 
             SehirPlaka.Add("bolu",14);
             SehirPlaka.Add("burdur",15);
             SehirPlaka.Add("bursa",16);
