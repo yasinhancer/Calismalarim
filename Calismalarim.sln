@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SehirdenPlakaSorgulama", "SehirdenPlakaSorgulama\SehirdenPlakaSorgulama.csproj", "{6E64DC3C-4A21-4D5B-8D9A-FE20EC12EF40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SehirdenPlakaSorgulama", "SehirdenPlakaSorgulama\SehirdenPlakaSorgulama.csproj", "{6E64DC3C-4A21-4D5B-8D9A-FE20EC12EF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamePlatformProject", "GamePlatformProject\GamePlatformProject.csproj", "{9DE048EE-0C5C-442A-B383-01743BB25A15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6E64DC3C-4A21-4D5B-8D9A-FE20EC12EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E64DC3C-4A21-4D5B-8D9A-FE20EC12EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E64DC3C-4A21-4D5B-8D9A-FE20EC12EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE048EE-0C5C-442A-B383-01743BB25A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE048EE-0C5C-442A-B383-01743BB25A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE048EE-0C5C-442A-B383-01743BB25A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE048EE-0C5C-442A-B383-01743BB25A15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
